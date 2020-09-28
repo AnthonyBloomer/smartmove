@@ -1,0 +1,58 @@
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+body {
+    padding-top: 20px;
+}
+
+.white-heading {
+    color: white;
+}
+
+.lead {
+    color: white;
+}
+
+#introduction {
+    background-image: url("../images/Header.jpg");
+    background-size: cover;
+    color: #eee;
+    padding-top: 100px;
+    padding-bottom: 45px;
+    height: 350px;
+}
+
+.link-item {
+    margin-top: -35px;
+}
+
+#features {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+#work {
+    background-image: url("../images/work.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    height: 350px;
+}
+
+#open {
+    background: #eee;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: #2d2d2d;
+}
+
+#learn_more {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background: #eee;
+    color: #2d2d2d;
+}
+
